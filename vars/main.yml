@@ -1,2 +1,6 @@
 ---
-# vars file for ansible-docker-accelerate
+ssserver: "ssserver_ip"
+ssserver_port: 1984
+ssserver_method: "aes-256-cfb"
+ssserver_password: "123123"
+docker_mirror: "docker-registry-mirror"
